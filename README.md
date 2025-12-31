@@ -68,7 +68,7 @@ ReVive will not only allow us to collect sensor data into fixed numerical values
 | BUZZER based alert syestem | ![BUZZER](images/buzzer.jpeg) |
 | Laptop Dashboard- Normal mode| ![MAIN BATTERY ON](images/onbattery.jpeg) |
 | Laptop Dashboard- ALERT mode| ![ALERT](images/alertmode.jpeg) |
-| Laptop Dashboard- Warning mode| ![WARNING](images/warningmode.jpeg) |
+| Laptop Dashboard- ReVive mode| ![WARNING](images/revivemode.jpeg) |
 
 
 ## D) Videos
