@@ -117,10 +117,12 @@ The majority of system will fail when the main battery dies, but ReVive will nev
 - All sensors/alert dashboard will stay operational - regardless of emergency status
 
 
+
 |System state| Power source| Relay Status | ESP32 Mode | Vehicle Behavior|
 |------------|------------|-------------|----------|----------------|
 |Main Battery ON| Main Battery| Relay Active| Normal Mode | Motors running,steering active,sensors reading,warning high slope alert|
 |Main Battery OFF| Lipo Backup Battery| Relay Switched| Emergency Revive Mode|Motors stop, steering & braking assisted temporarily,OLED alerts, buzzer active, live sensor tracking, Dashboard updates|
+
 
 
 ### 3. Alert-based Emergency ReVive Mode
@@ -270,7 +272,7 @@ A Step-By-Step Guid for using the ReVive Prototype.
 -	The dashboard will show up-to-data status in an emergency situation.
 
 
-##  How it works
+##  How it works.
 
 ### 1) Crash Risk Detection Logic
 
@@ -342,6 +344,7 @@ REVIVE is designed as an intelligent safety layer for electric vehicles, where e
 ## I) System Requirements & Installation
 
 To run and test the REVIVE system, a standard embedded development environment is required along with basic hardware connections. The system is designed to be lightweight and accessible, allowing it to run on commonly available development tools without any specialized setup.
+
 
 ###  Hardware Requirements
 
