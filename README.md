@@ -1,5 +1,6 @@
 # ReVive MYOSA
-REVIVE: A smart ev safety backup system prototype developed using the MYOSA Mini IOT Kit.
+
+ReVive: A smart ev safety backup system prototype developed using the MYOSA Mini IOT Kit.
 
 ## **Publish Date**
 
@@ -7,14 +8,19 @@ December 2025
 
  ## **Project Title**
 
-REVIVE: Smart EV Safety backup system
+ReVive: Smart EV Safety backup system
 
 ## **Excerpt**
-REVIVE is an intelligent EV safety backup system that predicts crash and slope risks in real time, assists steering and braking decisions, and remains operational through a dedicated LiPo-based backup power system with IoT monitoring.
+
+ReVive is an intelligent EV safety backup system that predicts crash and slope risks in real time, assists steering and braking decisions, and remains operational through a dedicated LiPo-based backup power system with IoT monitoring.
 
  ## **Tagline** 
+ 
+Power Reclaimed at Every Stop
+When Braking Becomes Backup Power
+Turning Motion into Safety and Energy
 
-“Reclaim.Recharge.Revive”
+“Reclaim.Recharge.ReVive”
 
 ## Cover Image
 
@@ -22,10 +28,12 @@ REVIVE is an intelligent EV safety backup system that predicts crash and slope r
 
 
 ## A) ACKNOWLEDGE
+
  We sincerely thank MYOSA, IEEE Sensors Council, and Pandit Deendayal Energy University (PDEU) for providing the MYOSA Mini IoT Kit and platform to explore real-world sensor-based innovations. We also appreciate the help and support of our faculty mentor Dr. Abhishek Gor and the lab facilities during the development of this prototype.
 
 ## B) Overview
- The rapid development of electric vehicles has created a new form of risk that all electric vehicles will eventually experience a complete power failure at the worst possible time.
+
+The rapid development of electric vehicles has created a new form of risk that all electric vehicles will eventually experience a complete power failure at the worst possible time.
 This will put electric vehicle manufacturers in a very precarious position when the very systems we need to keep us safe will also fail at that time.
 
 ReVive is our answer to this problem.
@@ -74,6 +82,7 @@ ReVive will not only allow us to collect sensor data into fixed numerical values
 ## D) Videos
 
 ## E) Features
+
 ### 1. Regenerative Braking Recovery of Power in Emergency Situations
 
 ReVive incorporates a regenerative braking system. It is based on the conversion of kinetic energy into electrical energy during braking. The regenerative motor start behaving like a turbine when the vehicle is manually braked. The emergency application of this recovered energy during a main power failure is very important.
