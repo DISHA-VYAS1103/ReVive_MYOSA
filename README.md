@@ -24,6 +24,7 @@ Turning Motion into Safety and Energy
 
 **Reclaim.Recharge.ReVive**
 
+
 ## Cover Image
 
 ![Cover Page](images/cover_page.jpeg)
