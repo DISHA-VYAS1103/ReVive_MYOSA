@@ -86,7 +86,7 @@ ReVive will not only allow us to collect sensor data into fixed numerical values
 
 ## D) Video
 
-[![ReVive Demo Video](images/cover_page.jpeg)](videos/myosa_revivedemo.mp4)
+[![ReVive Demo Video](images/cover_page.jpeg)](video/myosa_revivedemo.mp4)
 click on the cover image to watch the full demonstration video
 
 ## E) Features
