@@ -72,16 +72,16 @@ ReVive will not only allow us to collect sensor data into fixed numerical values
 
 | View | Image |
 |-----|-------|
-| Side View | ![Side View](images/sideview.jpeg) |
-| Top View | ![Top View](images/topview.jpeg) |
-| ESP32 Controller with buck and relay module | ![ESP32](images/esp32.jpeg) |
-| Sensor Readings and Energy level | ![Sensors](images/sensor.jpeg) |
-| Regenerative Braking | ![Regen](images/regenerative_braking.jpeg) |
-| Slope Detection OLED | ![Slope OLED](images/slope.jpeg) |
-| BUZZER based alert system | ![BUZZER](images/buzzer.jpeg) |
-| Laptop Dashboard- Normal mode| ![MAIN BATTERY ON](images/onbattery.jpeg) |
-| Laptop Dashboard- ALERT mode| ![ALERT](images/alertmode.jpeg) |
-| Laptop Dashboard- ReVive mode| ![WARNING](images/revivemode.jpeg) |
+| Side View | ![Side View](images/sideview.jpg) |
+| Top View | ![Top View](images/topview.jpg) |
+| ESP32 Controller with buck and relay module | ![ESP32](images/esp32.jpg) |
+| Sensor Readings and Energy level | ![Sensors](images/sensor.jpg) |
+| Regenerative Braking | ![Regen](images/regenerative_braking.jpg) |
+| Slope Detection OLED | ![Slope OLED](images/slope.jpg) |
+| BUZZER based alert system | ![BUZZER](images/buzzer.jpg) |
+| Laptop Dashboard- Normal mode| ![MAIN BATTERY ON](images/onbattery.jpg) |
+| Laptop Dashboard- ALERT mode| ![ALERT](images/alertmode.jpg) |
+| Laptop Dashboard- ReVive mode| ![WARNING](images/revivemode.jpg) |
 
 
 ## D) Video
@@ -150,7 +150,7 @@ In actual accidents, the visual dashboard may be broken/missing. Using local ale
 ##  **Alert -based Emergency Mode**
 
 <div style="border: 4px solid #2196f3; border-radius: 20px; padding: 20px; background: #e3f2fd; display: inline-block;">
-<img src="images/alert.jpeg" width="450" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+<img src="images/alert.jpg" width="450" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
 <div style="font-weight: bold; color: #1976d2; margin-top: 15px; font-size: 18px;">
  **High crash risk detected**
 </div>
@@ -187,11 +187,11 @@ The OLED screen will provide real-time visual feedback on the percentage of slop
 <table>
 <tr>
 <td style="border: 3px solid #ff6b6b; border-radius: 12px; padding: 12px; background: #ffeaea;">
-<img src="images/slope.jpeg" width="300" style="border-radius: 8px;">
+<img src="images/slope.jpg" width="300" style="border-radius: 8px;">
 <br><b style="color: #d32f2f;"> Slope Detection</b>
 </td>
 <td style="border: 3px solid #ff9800; border-radius: 12px; padding: 12px; background: #fff3e0;">
-<img src="images/slope_warning.jpeg" width="300" style="border-radius: 8px;">
+<img src="images/slope_warning.jpg" width="300" style="border-radius: 8px;">
 <br><b style="color: #f57c00;">⚠️ Slope Warning</b>
 </td>
 
