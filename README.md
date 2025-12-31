@@ -62,10 +62,13 @@ ReVive will not only allow us to collect sensor data into fixed numerical values
 | Side View | ![Side View](images/sideview.jpeg) |
 | Top View | ![Top View](images/topview.jpeg) |
 | ESP32 Controller | ![ESP32](images/esp32.jpeg) |
-| Sensor Reading | ![Sensors](images/sensor.jpeg) |
+| Sensor Readings and Energy level | ![Sensors](images/sensor.jpeg) |
 | Regenerative Braking | ![Regen](images/regenerative_braking.jpeg) |
 | Slope Detection OLED | ![Slope OLED](images/slope.jpeg) |
-| Emergency Alert OLED | ![Emergency OLED](images/alert.jpeg) |
+| BUZZER based alert syestem | ![BUZZER](images/buzzer.jpeg) |
+| Laptop Dashboard- Normal mode| ![MAIN BATTERY ON](images/onbattery.jpeg) |
+| Laptop Dashboard- ALERT mode| ![ALERT](images/alertmode.jpeg) |
+| Laptop Dashboard- Warning mode| ![WARNING](images/warningmode.jpeg) |
 
 
 ## D) Videos
