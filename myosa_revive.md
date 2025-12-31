@@ -83,6 +83,7 @@ ReVive will not only allow us to collect sensor data into fixed numerical values
 | Laptop Dashboard- ALERT mode| ![ALERT](images/alertmode.jpg) |
 | Laptop Dashboard- ReVive mode| ![WARNING](images/revivemode.jpg) |
 
+ 
 
 ## D) Video
 
@@ -152,7 +153,7 @@ In actual accidents, the visual dashboard may be broken/missing. Using local ale
 <div style="border: 4px solid #2196f3; border-radius: 20px; padding: 20px; background: #e3f2fd; display: inline-block;">
 <img src="images/alert.jpg" width="450" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
 <div style="font-weight: bold; color: #1976d2; margin-top: 15px; font-size: 18px;">
- **High crash risk detected**
+ High crash risk detected
 </div>
 <small style="color: #666;">
 
