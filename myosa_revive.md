@@ -87,7 +87,8 @@ ReVive will not only allow us to collect sensor data into fixed numerical values
 ## D) Video
 
 <video controls width="100%">
-  <source src="/myosa_revivedemo.mp4" type="video/mp4">
+  <source src="/myosa_revivedemo.mp4
+" type="video/mp4">
 </video>
 
 
