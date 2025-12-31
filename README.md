@@ -16,7 +16,7 @@ REVIVE is an intelligent EV safety backup system that predicts crash and slope r
 
 “Reclaim.Recharge.Revive”
 
-## image
+## Cover Image
 
 ![Cover Page](images/cover_page.jpeg)
 
