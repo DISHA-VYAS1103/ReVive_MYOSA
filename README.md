@@ -1,4 +1,4 @@
-# Revive-myosa
+# ReVive MYOSA
 REVIVE: A regenerative braking and safety backup prototype developed using the MYOSA Mini IOT Kit.
 
 ## **Publish Date**
