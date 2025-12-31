@@ -86,13 +86,7 @@ ReVive will not only allow us to collect sensor data into fixed numerical values
 
 ## D) Video
 
-<p align="center">
-  <a href="videos/myosa_revivedemo.mp4">
-    <img src="images/video_cover.jpeg" width="80%">
-  </a>
-  <br>
-  <b>ReVive – Smart EV Safety Backup System (Demo)</b>
-</p>
+[![ReVive Demo Video](images/cover_page.jpeg)](videos/myosa_revivedemo.mp4)
 click on the cover image to watch the full demonstration video
 
 ## E) Features
