@@ -4,7 +4,7 @@
 
 ## **Publish Date**
 
-30th December 2025
+2025-12-30
 
  ## **Project Title**
 
