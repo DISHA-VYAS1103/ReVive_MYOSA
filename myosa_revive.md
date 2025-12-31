@@ -27,7 +27,7 @@ Turning Motion into Safety and Energy
 
 ## Cover Image
 
-![Cover Page](images/cover_page.jpeg)
+![Cover Page](images/cover_page.jpg)
 
 
 
@@ -86,7 +86,7 @@ ReVive will not only allow us to collect sensor data into fixed numerical values
 
 ## D) Video
 
-[![ReVive Demo Video](images/cover_page.jpeg)](video/myosa_revivedemo.mp4)
+[![ReVive Demo Video](images/cover_page.jpg)](video/myosa_revivedemo.mp4)
 click on the cover image to watch the full demonstration video
 
 ## E) Features
