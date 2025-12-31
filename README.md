@@ -1,5 +1,5 @@
 # ReVive MYOSA
-REVIVE: A regenerative braking and safety backup prototype developed using the MYOSA Mini IOT Kit.
+REVIVE: A smart ev safety backup system prototype developed using the MYOSA Mini IOT Kit.
 
 ## **Publish Date**
 
@@ -7,7 +7,7 @@ December 2025
 
  ## **Project Title**
 
-REVIVE: Smart Safety backup system
+REVIVE: Smart EV Safety backup system
 
 ## **Excerpt**
 REVIVE is an intelligent EV safety backup system that predicts crash and slope risks in real time, assists steering and braking decisions, and remains operational through a dedicated LiPo-based backup power system with IoT monitoring.
