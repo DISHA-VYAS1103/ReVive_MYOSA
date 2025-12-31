@@ -1,10 +1,10 @@
 # ReVive MYOSA
 
-ReVive: A smart ev safety backup system prototype developed using the MYOSA Mini IOT Kit.
+ReVive: A smart EV safety backup system prototype developed using the MYOSA Mini IOT Kit.
 
 ## **Publish Date**
 
-December 2025
+30th December 2025
 
  ## **Project Title**
 
