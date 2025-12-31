@@ -30,7 +30,9 @@ Turning Motion into Safety and Energy
 ![Cover Page](images/cover_page.jpeg)
 
 
+
 ## A) ACKNOWLEDGE
+
 
  We sincerely thank MYOSA, IEEE Sensors Council, and Pandit Deendayal Energy University (PDEU) for providing the MYOSA Mini IoT Kit and platform to explore real-world sensor-based innovations. We also appreciate the help and support of our faculty mentor Dr. Abhishek Gor and the lab facilities during the development of this prototype.
 
