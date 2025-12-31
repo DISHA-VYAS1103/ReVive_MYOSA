@@ -101,6 +101,7 @@ In an event of an accident or failure of your vehicle’s primary power source, 
 - Electrical energy can be stored in a battery for later use in emergency situations
 - Future scalability capabilities to recharge your vehicle’s primary batteries could extend the life of your long-range driving system through multiple brake engagement in a single event.
 
+
 ### 2. Dual Power Backup Intelligent Switching (Main LiPo Battery ↔️ Battery)
 
 By introducing a smart relay-controlled switching structure to power ESP32 and all sensors without interruption, ReVive makes it easy for users. During normal use, the system uses the main battery, and the instant the main battery is switched off (after a crash/failure/manual switch) the system will automatically switch over to the backup LiPo battery without interruption.
