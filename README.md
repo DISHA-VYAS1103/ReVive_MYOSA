@@ -89,10 +89,12 @@ ReVive will not only allow us to collect sensor data into fixed numerical values
 
 ReVive incorporates a regenerative braking system. It is based on the conversion of kinetic energy into electrical energy during braking. The regenerative motor start behaving like a turbine when the vehicle is manually braked. The emergency application of this recovered energy during a main power failure is very important.
 
-#### Why this is important
+#### Why this is important?
+
 In an event of an accident or failure of your vehicle’s primary power source, you could lose much of your power to operate your vehicle’s safety equipment. However, by utilizing a small portion of recovered energy, ReVive allows for keeping many critical systems alive.
 
-#### How It Works
+#### How It Works.
+
 - The third wheel in our prototype is an analogy on manual brake that operates as a regenerative motor during braking
 - Mechanical braking creates electrical energy
 - Electrical energy can be stored in a battery for later use in emergency situations
@@ -103,6 +105,7 @@ In an event of an accident or failure of your vehicle’s primary power source, 
 By introducing a smart relay-controlled switching structure to power ESP32 and all sensors without interruption, ReVive makes it easy for users. During normal use, the system uses the main battery, and the instant the main battery is switched off (after a crash/failure/manual switch) the system will automatically switch over to the backup LiPo battery without interruption.
 
 #### Why is this important?
+
 The majority of system will fail when the main battery dies, but ReVive will never fail.
 
 ####  Key features of an Intelligent Dual Power Backup System
@@ -122,7 +125,8 @@ The majority of system will fail when the main battery dies, but ReVive will nev
 
 If the main battery goes dead, it switches to Emergency Mode, which focuses on making the user aware that something has gone wrong (lost battery) and that the diagnostics of this is being performed. As soon as you are in Emergency Mode, the buzzer will go on (making noise) for about five seconds and will show on the OLED "EMERGENCY - ReVive ACTIVE," which will ensure that you are alerted in realtime.
 
-#### Why this is important:
+#### Why this is important?
+
 In actual accidents, the visual dashboard may be broken/missing. Using local alerts will increase survival rates.
 
  Once an alert occurs, the following procedures will be implemented:
@@ -149,8 +153,10 @@ In actual accidents, the visual dashboard may be broken/missing. Using local ale
 <sub>Full hardware assembled with motors, sensors, and safety systems</sub>
 
 </div>	
+
   
 ## 4. Intelligent Pre-Crash Prediction with Slope & Energy Awareness
+
 ReVive’s Intelligent Crash Prediction is capable of predicting whether or not a driver will experience an accident based upon their vehicle's slope and energy level before the actual accident occurs. The MPU6050 sensor is utilized by ReVive to determine the slope angle as well as the tilt angle in real-time, ensuring that users know when they are crossing a critical tilt threshold through visual feedback.
 
 The OLED screen will provide real-time visual feedback on the percentage of slope risk in near terms. In addition to the slope danger signal being displayed on the OLED screen, the current energy level will also be displayed to allow users to determine if they have enough power stored in the device to respond to emergencies.
@@ -262,7 +268,7 @@ A Step-By-Step Guid for using the ReVive Prototype.
 -	The dashboard will show up-to-data status in an emergency situation.
 
 
-## How its works
+##  How it works
 
 ### 1) Crash Risk Detection Logic
 
@@ -311,6 +317,7 @@ Critical safety and energy parameters are streamed live to the MYOSA dashboard.
 REVIVE is designed as an intelligent safety layer for electric vehicles, where every technology choice supports reliability, real-time awareness, and fail-safe behavior. The system combines embedded hardware capable of sensing motion, slope, and surroundings with real-time control software that continuously analyzes risk conditions and assists steering and braking decisions. A dedicated power management setup with backup energy storage and regulated voltage keeps the system active even during main battery failure. This foundation is further extended with IoT connectivity, allowing live monitoring, alerts, and analytics through a web-based dashboard. The following table outlines the complete technology stack used to bring this integrated, safety-focused architecture together.
 
 ### Core technologies powering REVIVE
+
 | Category | Component / Technology | Purpose |
 |--------|------------------------|---------|
 | Microcontroller | **ESP32 (Wi-Fi Enabled MCU)** | Central processing unit for sensor fusion, safety logic, actuator control, and IoT connectivity. |
@@ -329,11 +336,13 @@ REVIVE is designed as an intelligent safety layer for electric vehicles, where e
 | IoT Platform | **Blynk IoT (Web Dashboard)** | Enables real-time monitoring, graphs, alerts, and analytics. |
 
 
+
 ## I) System Requirements & Installation
 
 To run and test the REVIVE system, a standard embedded development environment is required along with basic hardware connections. The system is designed to be lightweight and accessible, allowing it to run on commonly available development tools without any specialized setup.
 
 ###  Hardware Requirements
+
 - **ESP32 Development Board**
 - **MPU6050** – Accelerometer & Gyroscope
 - **BMP180** – Barometric Pressure / Altitude Sensor
@@ -349,6 +358,7 @@ To run and test the REVIVE system, a standard embedded development environment i
 ---
 
 ###  Software Requirements
+
 - **Arduino IDE**
 - **ESP32 Board Package**
 - **Blynk IoT Platform** (Web / Desktop Dashboard)
@@ -357,6 +367,7 @@ To run and test the REVIVE system, a standard embedded development environment i
 ---
 
 ###  Required Libraries
+
 Install the following libraries using **Arduino Library Manager**:
 
 - Blynk
