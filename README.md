@@ -65,7 +65,7 @@ ReVive will not only allow us to collect sensor data into fixed numerical values
 | Sensor Readings and Energy level | ![Sensors](images/sensor.jpeg) |
 | Regenerative Braking | ![Regen](images/regenerative_braking.jpeg) |
 | Slope Detection OLED | ![Slope OLED](images/slope.jpeg) |
-| BUZZER based alert syestem | ![BUZZER](images/buzzer.jpeg) |
+| BUZZER based alert system | ![BUZZER](images/buzzer.jpeg) |
 | Laptop Dashboard- Normal mode| ![MAIN BATTERY ON](images/onbattery.jpeg) |
 | Laptop Dashboard- ALERT mode| ![ALERT](images/alertmode.jpeg) |
 | Laptop Dashboard- ReVive mode| ![WARNING](images/revivemode.jpeg) |
